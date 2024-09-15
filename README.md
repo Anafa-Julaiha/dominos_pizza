@@ -11,7 +11,6 @@ This project aims to develop a predictive purchase order system for a Dominos pi
 - [Modeling](#modeling)
 - [Forecasting Results](#forecasting-results)
 - [Conclusion](#conclusion)
-- [Usage](#usage)
 
 ## Data Sources
 The project uses two datasets:
